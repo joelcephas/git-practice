@@ -1,0 +1,20 @@
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 50px;
+    border-radius: 5px;
+}
+span{
+    font-weight: 900;
+    font-size: 1.5rem;
+    color: blue;
+}
+h2{
+    padding: 5px 10%;
+    background-color: #fff;
+    margin: 5px 10%;
+    border: 1px solid red;
+}
